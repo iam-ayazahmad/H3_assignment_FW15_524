@@ -59,6 +59,7 @@ export const Landing=()=>{
             }
             
             </div>
+            <button className="mybutton">Show More</button>
         </div>
     )
 }

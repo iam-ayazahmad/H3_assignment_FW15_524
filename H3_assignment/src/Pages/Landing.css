@@ -36,3 +36,8 @@ table{
   tbody tr{
     cursor: pointer;
   }
+.mybutton{
+    text-align: center;
+    background-color: greenyellow;
+   
+}
